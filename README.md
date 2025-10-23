@@ -17,7 +17,6 @@ A Fabric mod for Minecraft 1.21.1 that integrates Ollama AI into chat, allowing 
 - Fabric Loader 0.16.0+
 - Fabric API
 - Fabric Language Kotlin
-- Mod Menu (for in-game configuration)
 - [Ollama](https://ollama.ai/) installed and running locally
 
 ## Installation
@@ -35,10 +34,7 @@ A Fabric mod for Minecraft 1.21.1 that integrates Ollama AI into chat, allowing 
 
 You can configure OxAI in two ways:
 
-### 1. In-Game (Mod Menu)
-Install Mod Menu and click on "Mods" in the main menu. Find OxAI and click the config button to access a graphical interface where you can change all settings.
-
-### 2. Config File
+### 1. Config File
 Edit `config/oxai.json` directly:
 
 ```json
