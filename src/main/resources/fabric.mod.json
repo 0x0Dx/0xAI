@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "oxai",
+	"version": "${version}",
+	"name": "OxAI",
+	"description": "AI chat companion using Ollama",
+	"authors": [
+		"0x0D_"
+	],
+	"contact": { },
+	"license": "CC0-1.0",
+	"icon": "assets/oxai/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			{
+				"value": "dev.oxod.oxai.OxAI",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"oxai.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	},
+	"suggests": {
+	}
+}
