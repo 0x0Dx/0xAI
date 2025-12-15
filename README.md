@@ -32,8 +32,6 @@ A Fabric mod for Minecraft 1.21.1 that integrates Ollama AI into chat, allowing 
 
 ## Configuration
 
-You can configure OxAI in two ways:
-
 ### 1. Config File
 Edit `config/oxai.json` directly:
 
