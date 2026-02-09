@@ -1,6 +1,6 @@
 # OxAI - Minecraft AI Chat Companion
 
-A Fabric mod for Minecraft 1.21.1 that integrates Ollama AI into chat, allowing players to ask questions and get AI-generated responses.
+A Fabric mod for Minecraft 1.21.11 that integrates Ollama AI into chat, allowing players to ask questions and get AI-generated responses.
 
 ## Features
 
@@ -13,8 +13,8 @@ A Fabric mod for Minecraft 1.21.1 that integrates Ollama AI into chat, allowing 
 
 ## Requirements
 
-- Minecraft 1.21.1
-- Fabric Loader 0.16.0+
+- Minecraft 1.21.11
+- Fabric Loader 0.18.4+
 - Fabric API
 - Fabric Language Kotlin
 - [Ollama](https://ollama.ai/) installed and running locally
