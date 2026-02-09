@@ -6,7 +6,7 @@ import java.nio.file.Paths
 
 data class OxAIConfig(
   var enabled: Boolean = true,
-  var trigger: String = "@0xai",
+  var trigger: String = "@ai",
   var ollamaUrl: String = "http://localhost:11434",
   var model: String = "llama3.2:3b",
   var systemPrompt: String = "You are a helpful AI assistant in a Minecraft server. Keep responses concise and friendly.",
