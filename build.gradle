@@ -12,10 +12,10 @@ base {
 }
 
 repositories {
-    mavenCentral()
-    maven {
-        url "https://maven.fabricmc.net/"
-    }
+  mavenCentral()
+  maven {
+    url "https://maven.fabricmc.net/"
+  }
 }
 
 dependencies {
