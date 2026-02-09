@@ -1,14 +1,6 @@
 # 0xAI
 
-Minecraft Fabric mod (1.21.11) that adds AI chat via Ollama. Type `@ai` in chat to ask questions.
-
-## Requirements
-
-- Minecraft 1.21.11
-- Fabric Loader 0.18.4+
-- Fabric API
-- Fabric Language Kotlin
-- Ollama running locally
+Minecraft mod that adds AI chat via Ollama. Type `@ai` in chat to ask questions.
 
 ## Install
 
